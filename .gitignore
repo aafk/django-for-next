@@ -1,0 +1,8 @@
+/app/__pycache__
+/template/node_modules
+/template/.next
+/api/__pycache__
+/api/views/__pycache__
+/api/migrations/__pycache__
+/api/views/account/__pycache__
+/venv/
